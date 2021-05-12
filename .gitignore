@@ -9,6 +9,9 @@ uploads/*
 #ignore .env
 .env 
 
+#ignore folder log
+logs/*
+
 #ingrone wp-config.php
 wp-config.php
 
